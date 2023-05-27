@@ -1,5 +1,11 @@
 # Human-Skin-Detection-AI
-By- GARV Jaiswal (Ra2011033010035)
-      bedanta gautom (ra2011033010048)
-       Vaibhav jha (ra2011033010058)
-![image](https://github.com/BedantaGautom/Human-Skin-Detection-AI/assets/85272308/b11cc341-9326-40a8-9a90-ef6ac34d92f3)
+A reliable human skin detection method that is adaptable to different human skin colors and illumination conditions is essential for better human skin segmentation. Even though different human skin color detection solutions have been successfully applied, they are prone to false skin detection and are not able to cope with the variety of human skin colors across different ethnic.
+
+In this approach we refine the skin model by combining HSV & YCbCr color spaces. The proposed approach reduces computational costs as no training is required and it improves the accuracy of skin detection despite wide variation in ethnicity and illumination.
+
+By - Garv Jaiswal (Ra2011033010035)
+     Bedanta Gautom (ra2011033010048)
+     Vaibhav Jha (ra2011033010058)
+
+
+
