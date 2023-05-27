@@ -3,9 +3,9 @@ A reliable human skin detection method that is adaptable to different human skin
 
 In this approach we refine the skin model by combining HSV & YCbCr color spaces. The proposed approach reduces computational costs as no training is required and it improves the accuracy of skin detection despite wide variation in ethnicity and illumination.
 
-By - Garv Jaiswal (Ra2011033010035)
-     Bedanta Gautom (ra2011033010048)
-     Vaibhav Jha (ra2011033010058)
+By - Garv Jaiswal (RA2011033010035)
+     Bedanta Gautom (RA2011033010048)
+     Vaibhav Jha (RA2011033010058)
 
 
 
